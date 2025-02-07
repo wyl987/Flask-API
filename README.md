@@ -30,5 +30,12 @@ The project was built with reference to the tutorial:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Start the app:
+   ```bash
+   python app.py
+
+## License
+This project is licensed under the MIT License.
+
 
 
