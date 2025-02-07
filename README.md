@@ -20,9 +20,15 @@ The project was built with reference to the tutorial:
 - **Flask-SQLAlchemy**: Flask extension to handle SQL database operations with ease.
 - **SQLite**: Database used for storing user data.
 
-## Requirements
+## Running the Application
 
-To install the required packages, use the following command:
+1. Set up a virtual environment and activate it:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # macOS/Linux
+   .\venv\Scripts\activate   # Windows
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-```bash
-pip install -r requirements.txt
+
